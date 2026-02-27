@@ -29,8 +29,8 @@ const Navbar = () => {
       }`}
     >
       <div className="max-w-6xl mx-auto px-6 flex items-center justify-between h-16">
-        <a href="#" className="font-display text-xl font-bold text-cream">
-          Portfolio
+        <a href="#" className="font-display text-xl font-bold text-cream " >
+          EDWIN OTUOMA
         </a>
 
         <div className="hidden md:flex gap-8">
